@@ -6,7 +6,7 @@ from PIL import Image, ImageFilter, ImageEnhance
 
 from datetime import datetime
 
-# 깃 연동
+# 깃 연동AAAAㄹㅇㄹ
 
 
 def load_image(image_file) :
@@ -240,3 +240,5 @@ def main()  :
 
 if __name__ == '__main__' :
     main()
+
+
